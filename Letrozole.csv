@@ -1,0 +1,57 @@
+﻿Organ System,Male,Female,Age
+Nervous System,0,0,0-6
+Cardiovascular System,0,0,0-6
+Endocrine System,0,0,0-6
+Digestive System,0,0,0-6
+Respiratory System,0,0,0-6
+Urinary System,0,0,0-6
+Liver,0,0,0-6
+Nervous System,0.333333333,0,7-12
+Cardiovascular System,0,0,7-12
+Endocrine System,1.666666667,0,7-12
+Digestive System,0,0,7-12
+Respiratory System,0.333333333,0,7-12
+Urinary System,0.333333333,0,7-12
+Liver,0,0,7-12
+Nervous System,0.631578947,0.2,13-21
+Cardiovascular System,0.473684211,0,13-21
+Endocrine System,0,0,13-21
+Digestive System,0,2,13-21
+Respiratory System,0.052631579,0,13-21
+Urinary System,0,0,13-21
+Liver,,0,13-21
+Nervous System,0,0.696774194,22-40
+Cardiovascular System,0,0.2,22-40
+Endocrine System,0,0.041935484,22-40
+Digestive System,0,0.432258065,22-40
+Respiratory System,0,0.283870968,22-40
+Urinary System,0,0.132258065,22-40
+Liver,0,0.370967742,22-40
+Nervous System,0,0.60591133,41-50
+Cardiovascular System,2.5,0.16091954,41-50
+Endocrine System,1.5,0.15270936,41-50
+Digestive System,0,0.513957307,41-50
+Respiratory System,0,0.330049261,41-50
+Urinary System,0,0.134646962,41-50
+Liver,0.5,0.249589491,41-50
+Nervous System,2,0.73384517,51-60
+Cardiovascular System,0.333333333,0.310940499,51-60
+Endocrine System,0.333333333,0.143953935,51-60
+Digestive System,1.333333333,0.44465771,51-60
+Respiratory System,0.333333333,0.347408829,51-60
+Urinary System,0,0.103646833,51-60
+Liver,0,0.210492642,51-60
+Nervous System,0.333333333,0.838684819,61-80
+Cardiovascular System,0,0.483431801,61-80
+Endocrine System,0.041666667,0.187259183,61-80
+Digestive System,0.041666667,0.503981505,61-80
+Respiratory System,0.041666667,0.459542769,61-80
+Urinary System,0.166666667,0.230670434,61-80
+Liver,0,0.008219882,61-80
+Nervous System,0.857142857,0.691950464,81+
+Cardiovascular System,0.714285714,0.431888545,81+
+Endocrine System,0,0.030959752,81+
+Digestive System,0.428571429,0.376160991,81+
+Respiratory System,1.428571429,0.390092879,81+
+Urinary System,0.285714286,0.171826625,81+
+Liver,0.285714286,0.102167183,81+
